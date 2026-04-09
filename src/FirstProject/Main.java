@@ -457,37 +457,5 @@ public class Main {
 	        System.out.println("Error writing file: " + e.getMessage());
 	    }
 	}
-		
-
 }
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
